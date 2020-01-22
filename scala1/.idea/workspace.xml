@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="001c82e2-eb5d-456f-8696-ffac85302144" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VsWZSdgg4EV8MhdFXCAHqi2N5o" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="G:/DEV/ENVS/scala2.13.1/scala-2.13.1/scala-2.13.1" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.59310347" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.OOP">
+    <configuration name="FnDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="FnDemo" />
+      <module name="scala1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ForDemo" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="ForDemo" />
+      <module name="scala1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomeWork" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="HomeWork" />
+      <module name="scala1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OOP" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="OOP" />
+      <module name="scala1" />
+      <option name="PROGRAM_PARAMETERS" value="hello world" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="digui" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="digui" />
+      <module name="scala1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.digui" />
+      <item itemvalue="Application.FnDemo" />
+      <item itemvalue="Application.ForDemo" />
+      <item itemvalue="Application.HomeWork" />
+      <item itemvalue="Application.OOP" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OOP" />
+        <item itemvalue="Application.HomeWork" />
+        <item itemvalue="Application.digui" />
+        <item itemvalue="Application.FnDemo" />
+        <item itemvalue="Application.ForDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="001c82e2-eb5d-456f-8696-ffac85302144" name="Default Changelist" comment="" />
+      <created>1578042337194</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578042337194</updated>
+      <workItem from="1578042340179" duration="2566000" />
+      <workItem from="1578046319109" duration="4150000" />
+      <workItem from="1578493144899" duration="5265000" />
+      <workItem from="1578545069260" duration="9722000" />
+      <workItem from="1578734289979" duration="1000" />
+      <workItem from="1578734327671" duration="130000" />
+      <workItem from="1578734801894" duration="100000" />
+      <workItem from="1578734973380" duration="368000" />
+      <workItem from="1578735402602" duration="648000" />
+      <workItem from="1578737392936" duration="1216000" />
+      <workItem from="1578741571269" duration="314000" />
+      <workItem from="1578741898759" duration="5618000" />
+      <workItem from="1578767295740" duration="57000" />
+      <workItem from="1578767370843" duration="91000" />
+      <workItem from="1578767475235" duration="1253000" />
+      <workItem from="1578846601200" duration="1404000" />
+      <workItem from="1578920281580" duration="634000" />
+      <workItem from="1579024965292" duration="3430000" />
+      <workItem from="1579681532314" duration="472000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579025086807">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1579025086807" />
+    <state x="506" y="323" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog" timestamp="1578741921220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="506" y="323" key="#com.intellij.framework.addSupport.AddSupportForSingleFrameworkDialog/0.0.1536.824@0.0.1536.824" timestamp="1578741921220" />
+    <state width="1483" height="134" key="GridCell.Tab.0.bottom" timestamp="1579042264419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="134" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579042264419" />
+    <state width="1483" height="134" key="GridCell.Tab.0.center" timestamp="1579042264419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="134" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579042264419" />
+    <state width="1483" height="134" key="GridCell.Tab.0.left" timestamp="1579042264419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="134" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579042264419" />
+    <state width="1483" height="134" key="GridCell.Tab.0.right" timestamp="1579042264419">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1483" height="134" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579042264419" />
+    <state width="1493" height="222" key="GridCell.Tab.1.bottom" timestamp="1578743060961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1578743060961" />
+    <state width="1493" height="222" key="GridCell.Tab.1.center" timestamp="1578743060961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1578743060961" />
+    <state width="1493" height="222" key="GridCell.Tab.1.left" timestamp="1578743060961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1578743060961" />
+    <state width="1493" height="222" key="GridCell.Tab.1.right" timestamp="1578743060961">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="222" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1578743060961" />
+    <state x="161" y="0" key="SettingsEditor" timestamp="1579036103641">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="161" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1579036103641" />
+    <state x="1152" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1578767159973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="1152" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1578767159973" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>
