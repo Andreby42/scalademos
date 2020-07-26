@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="scala1" />
+        <module name="scala-1" />
       </profile>
     </annotationProcessing>
   </component>
